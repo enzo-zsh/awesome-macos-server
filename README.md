@@ -18,6 +18,17 @@ A list of free and paid apps to turn your Mac into a server
 - [Web Server](#web-server)
 - [WebDAV](#webdav)
 
+## AppServer
+
+### AltServer :
+
+**Store :**  Web
+
+**Description :** Sideloading for Everyone
+
+**Type :** Free and open-source (AGPL-3.0 license)
+
+**Link :** https://altstore.io
 
 ## Web server
 

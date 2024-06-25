@@ -9,12 +9,12 @@ A list of free and paid apps to turn your Mac into a server
 - [Code Server](#code-server)
 - [FTP](#FTP)
 - [Media server](#media-server)
-- [Other](#other)
 - [PHP](#PHP)
 - [Samba](#samba)
 - [VNC](#vnc)
 - [Web Server](#web-server)
 - [WebDAV](#webdav)
+- [Other](#other)
 
 ## AppServer
 
@@ -157,6 +157,30 @@ A list of free and paid apps to turn your Mac into a server
 **Type :** Free
 
 **Link :** https://apps.apple.com/fr/app/piktures-media-server/id1624879177?mt=12
+
+## PHP
+
+### Simple PHP Server :
+
+**Store :**  Mac App Store
+
+**Description :** Simple PHP Server is a simple app that lets you setup and run your own PHP web server instantly.
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/simple-php-server/id6469113925?mt=12
+
+## Samba
+
+### SAMBA :
+
+**Store :**  Homebrew
+
+**Description :** SMB/CIFS file, print, and login server for UNIX
+
+**Type :** Free and open-source (GNU/GPLv3)
+
+**Link :** https://www.samba.org
 
 
 ## Web server

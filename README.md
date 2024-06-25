@@ -74,6 +74,28 @@ A list of free and paid apps to turn your Mac into a server
 
 **Link :** https://apps.apple.com/fr/app/cloud-server/id1484248279?mt=12
 
+## Code Server
+
+### Coder :
+
+**Store :**  Web
+
+**Description :** Coder is an open-source platform for creating and managing developer workspaces on your preferred clouds and servers.
+
+**Type :** Free and open-source (AGPL-3.0 license)
+
+**Link :** https://github.com/coder/coder
+
+### VSCode Server :
+
+**Store :**  Homebrew or MacPorts
+
+**Description :** Access VS Code through the browser
+
+**Type :** Free and open-source (MIT-license)
+
+**Link :** https://github.com/coder/code-server
+
 ## Web server
 
 ### Personal Web Server :

@@ -8,12 +8,10 @@ A list of free and paid apps to turn your Mac into a server
 - [Cloud](#cloud)
 - [Code Server](#code-server)
 - [FTP](#FTP)
-- [Git](#git)
-- [Mail](#mail)
 - [Media server](#media-server)
 - [Other](#other)
 - [PHP](#PHP)
-- [Samba](#HomeKit)
+- [Samba](#samba)
 - [VNC](#vnc)
 - [Web Server](#web-server)
 - [WebDAV](#webdav)
@@ -137,6 +135,29 @@ A list of free and paid apps to turn your Mac into a server
 **Type :** Freeware with paid options 
 
 **Link :** https://apps.apple.com/fr/app/ftp-serv/id1538156034?mt=12
+
+## Media Server
+
+### FireStream :
+
+**Store :**  Mac App Store
+
+**Description :** FireStream : The most advanced UPnP/DLNA media server for the Mac platform.
+
+**Type :** Free 7-trial and paid 34,99$ license (one-time purchases)
+
+**Link :** https://apps.apple.com/fr/app/firestream/id1005325119?mt=12
+
+### Piktures Media Server :
+
+**Store :**  Mac App Store
+
+**Description :** A simple powerful media server.
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/piktures-media-server/id1624879177?mt=12
+
 
 ## Web server
 

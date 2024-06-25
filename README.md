@@ -29,3 +29,24 @@ A list of free and paid apps to turn your Mac into a server
 **Type :** Free
 
 **Link :** https://apps.apple.com/fr/app/personal-web-server/id1486323797?mt=12
+
+### Caddy :
+
+**Store :**  Web
+
+**Description :** The Ultimate Server : makes your sites more secure, more reliable, and more scalable than any other solution.
+
+**Type :** Free and open-source (Apache-2.0-license)
+
+**Link :** https://caddyserver.com
+
+### Fenix Web Server :
+
+**Store :**  Web
+
+**Description :** A simple static desktop web server.
+
+**Type :** Free and open-source (GNU/GPLv3)
+
+**Link :** https://fenixwebserver.com
+

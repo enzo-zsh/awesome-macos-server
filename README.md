@@ -62,6 +62,18 @@ A list of free and paid apps to turn your Mac into a server
 
 **Link :** https://www.calendarserver.org
 
+## Cloud
+
+### Cloud Server :
+
+**Store :**  Mac App Store
+
+**Description :** Cloud Server allows you to store & share files effortlessly
+
+**Type :** Freeware with paid options
+
+**Link :** https://apps.apple.com/fr/app/cloud-server/id1484248279?mt=12
+
 ## Web server
 
 ### Personal Web Server :

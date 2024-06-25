@@ -236,7 +236,7 @@ including WebDAV Navigator available in the iOS App
 
 **Link :** https://apps.apple.com/fr/app/webdavnav-server/id747482894?mt=12
 
-### WebDAV Server :
+### WebDAV :
 
 **Store :**  Mac App Store
 

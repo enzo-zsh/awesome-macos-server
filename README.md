@@ -40,6 +40,16 @@ A list of free and paid apps to turn your Mac into a server
 
 **Link :** https://github.com/SideStore/Altcon
 
+### Altserverd :
+
+**Store :**  Web
+
+**Description :** AltServer with nextmuxd docker-compose convenience scripts
+
+**Type :** Free and open-source
+
+**Link :** https://github.com/hkfuertes/altserverd/
+
 
 ## Web server
 

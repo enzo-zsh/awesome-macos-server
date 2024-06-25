@@ -181,8 +181,17 @@ A list of free and paid apps to turn your Mac into a server
 
 **Link :** https://www.samba.org
 
-
 ## Web server
+
+### Simple Web Server :
+
+**Store :**  Mac App Store / GitHub
+
+**Description :** Create local web servers in just a few clicks with an easy-to-use interface.
+
+**Type :** Free and open-source (MIT-license)
+
+**Link :** https://apps.apple.com/fr/app/simple-web-server/id1625925255?mt=12  |  https://github.com/terreng/simple-web-server
 
 ### Personal Web Server :
 

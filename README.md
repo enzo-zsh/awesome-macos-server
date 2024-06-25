@@ -96,6 +96,48 @@ A list of free and paid apps to turn your Mac into a server
 
 **Link :** https://github.com/coder/code-server
 
+## FTP
+
+### QuickFTP Server :
+
+**Store :**  Mac App Store
+
+**Description :** QuickFTP Server allows sharing files saved on your Mac with other devices.
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/quickftp-server/id1451646819?mt=12
+
+### Simple FTP Server :
+
+**Store :**  Mac App Store
+
+**Description :** Share files effortlessly accross your various devices using the standard FTP.
+
+**Type :** Paid 
+
+**Link :** https://apps.apple.com/fr/app/simple-ftp-server/id6476315270?mt=12
+
+### SFTP Server :
+
+**Store :**  Mac App Store
+
+**Description :** SFTP Server allowed you to share/exchange via SFTP.
+
+**Type :** Paid 
+
+**Link :** https://apps.apple.com/fr/app/sftp-server/id1300094971?mt=12
+
+### FTP-Serv  :
+
+**Store :**  Mac App Store
+
+**Description :** It's a simple ftp server software for uploading files to your Mac, or share files to others.
+
+**Type :** Freeware with paid options 
+
+**Link :** https://apps.apple.com/fr/app/ftp-serv/id1538156034?mt=12
+
 ## Web server
 
 ### Personal Web Server :

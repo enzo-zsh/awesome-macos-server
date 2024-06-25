@@ -1,6 +1,8 @@
 # macOS Server
 A list of free and paid apps to turn your Mac into a server
 
+![macosserver](https://github.com/Enzo-zsh/macos-server/assets/74509560/f3d0f891-4c0b-49b7-b5a7-3708180f8fed)
+
 - [Web Server](#web-server)
 - [WebDAV](#webdav)
 - [FTP](#FTP)

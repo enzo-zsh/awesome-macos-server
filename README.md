@@ -223,4 +223,51 @@ A list of free and paid apps to turn your Mac into a server
 
 **Link :** https://fenixwebserver.com
 
+## WebDav Server
+
+### WebDAVNav Server :
+
+**Store :**  Mac App Store
+
+**Description :** WebDAVNav Server is a basic WebDAV server which can be used to quickly share files and folders from your Mac with other computers, mobile devices and apps,
+including WebDAV Navigator available in the iOS App
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/webdavnav-server/id747482894?mt=12
+
+### WebDAV Server :
+
+**Store :**  Mac App Store
+
+**Description :** WebDAV Server provides a simple way to share / sync files via HTTP / WebDAV.
+
+**Type :** Paid
+
+**Link :** https://apps.apple.com/fr/app/webdav-server/id1185282799?mt=12
+
+## Other
+
+### OpenSpeedTest-Server :
+
+**Store :**  Mac App Store
+
+**Description :** An application for launching HTML5 Network Speed Test Server. You can test download & upload speed from any device within your network with a web browser that is IE10 or new.
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/openspeedtest-server/id1579499874
+
+### Server for Home Assistant :
+
+**Store :**  Mac App Store
+
+**Description :** Setup and run Home Assistant OS on your Mac with ease.
+
+**Type :** Paid
+
+**Link :** https://apps.apple.com/fr/app/server-for-home-assistant/id6447077874?mt=12
+
+
+
 

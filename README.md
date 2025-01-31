@@ -8,11 +8,12 @@ A list of free and paid apps to turn your Mac into a server
 - [Calendar and Contacts Server](#calendar-and-contacts-server)
 - [Cloud](#cloud)
 - [Code Server](#code-server)
-- [FTP](#FTP)
-- [Git](#Git)
+- [FTP](#ftp)
+- [Git](#git)
 - [Media server](#media-server)
-- [PHP](#PHP)
+- [PHP](#php)
 - [Samba](#samba)
+- [Telnet](#telnet)
 - [Web Server](#web-server)
 - [WebDAV](#webdav)
 - [Other](#other)
@@ -207,6 +208,18 @@ A list of free and paid apps to turn your Mac into a server
 
 **Link :** https://www.samba.org
 
+## Telnet
+
+### Mocha Telnet Server :
+
+**Store :**  Mac App Store
+
+**Description :** Mocha Telnet Server provides access to the macOS computer via the telnet protocol.
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/mocha-telnet-server/id6736620652?mt=12
+
 ## Web server
 
 ### Simple Web Server :
@@ -248,6 +261,27 @@ A list of free and paid apps to turn your Mac into a server
 **Type :** Free and open-source (GNU/GPLv3)
 
 **Link :** https://fenixwebserver.com
+
+### Quick HTTP Server :
+
+**Store :**  Web
+
+**Description :** QuickHTTP Server is a simple web server that allows you to share files stored on your Mac with other devices via HTTP.
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/quickhttp-server/id6651851520?mt=12
+
+### Web Serve :
+
+**Store :**  Web
+
+**Description :** "Web Serve" is a simple and easy-to-use application designed for quickly setting up and managing local static servers, suitable for a variety of use cases. Whether you are a developer, designer, content creator, or a regular user, this application can bring you significant convenience and efficiency.
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/web-serve/id6670167443?mt=12
+
 
 ## WebDav Server
 
@@ -293,6 +327,26 @@ including WebDAV Navigator available in the iOS App
 **Type :** Paid
 
 **Link :** https://apps.apple.com/fr/app/server-for-home-assistant/id6447077874?mt=12
+
+### Redis Server :
+
+**Store :**  Mac App Store
+
+**Description :** Redis Server simplifies development by providing a ready-to-run version of Redis, now you can manage the Redis service easily (start, stop, restart, launch at login,etc.)
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/redis-server/id972359186?mt=12
+
+### SenServer :
+
+**Store :**  Mac App Store
+
+**Description :** Share photos, videos, files, folders, and notes with your devices over WiFi.
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/senserver/id6443430110?mt=12
 
 
 

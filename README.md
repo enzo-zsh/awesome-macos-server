@@ -9,6 +9,7 @@ A list of free and paid apps to turn your Mac into a server
 - [Cloud](#cloud)
 - [Code Server](#code-server)
 - [FTP](#FTP)
+- [Git](#Git)
 - [Media server](#media-server)
 - [PHP](#PHP)
 - [Samba](#samba)
@@ -147,6 +148,18 @@ A list of free and paid apps to turn your Mac into a server
 **Type :** Freeware with paid options 
 
 **Link :** https://apps.apple.com/fr/app/ftp-serv/id1538156034?mt=12
+
+## Git
+
+### Simple Git Server :
+
+**Store :**  Mac App Store
+
+**Description :** Simple Git Server is a simple app that lets you setup and run your own Git service instantly.
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/simple-git-server/id1040403936?mt=12
 
 ## Media Server
 

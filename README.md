@@ -4,6 +4,7 @@ A list of free and paid apps to turn your Mac into a server
 ![macosserver](https://github.com/Enzo-zsh/macos-server/assets/74509560/f3d0f891-4c0b-49b7-b5a7-3708180f8fed)
 
 - [AppServer](#appserver)
+- [AI](#ai)
 - [Calendar and Contacts Server](#calendar-and-contacts-server)
 - [Cloud](#cloud)
 - [Code Server](#code-server)
@@ -46,6 +47,18 @@ A list of free and paid apps to turn your Mac into a server
 **Type :** Free and open-source
 
 **Link :** https://github.com/hkfuertes/altserverd/
+
+## AI
+
+### Pico AI Homelab :
+
+**Store :**  Mac App Store
+
+**Description :** Home & Office AI server, DeepSeek R1 compatible and 300 others LLM. 100% Local and Private. No Internet required.
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/pico-ai-homelab-powered-by-mlx/id6738607769?mt=12
 
 ## Calendar and Contacts Server
 

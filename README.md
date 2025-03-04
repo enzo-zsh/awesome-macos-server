@@ -242,6 +242,16 @@ A list of free and paid apps to turn your Mac into a server
 
 **Link :** https://apps.apple.com/fr/app/personal-web-server/id1486323797?mt=12
 
+### World Wild Web - Desktop :
+
+**Store :**  Mac App Store
+
+**Description :** WorldWideWeb does things differently than today's production web. 
+
+**Type :** Free with buy-in-app
+
+**Link :** https://apps.apple.com/fr/app/worldwideweb-desktop/id1621370168?mt=12
+
 ### Caddy :
 
 **Store :**  Web

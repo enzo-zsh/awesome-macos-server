@@ -8,6 +8,7 @@ A list of free and paid apps to turn your Mac into a server
 - [Calendar and Contacts Server](#calendar-and-contacts-server)
 - [Cloud](#cloud)
 - [Code Server](#code-server)
+- [File server](#file-server)
 - [FTP](#ftp)
 - [Git](#git)
 - [Media server](#media-server)
@@ -107,6 +108,18 @@ A list of free and paid apps to turn your Mac into a server
 **Type :** Free and open-source (MIT-license)
 
 **Link :** https://github.com/coder/code-server
+
+## File server
+
+### PocketServer :
+
+**Store :**  Mac App Store/iOS/Mac 
+
+**Description :** QuickFTP Server allows sharing files saved on your Mac with other devices.
+
+**Type :** Free
+
+**Link :** https://apps.apple.com/fr/app/quickftp-server/id1451646819?mt=12
 
 ## FTP
 

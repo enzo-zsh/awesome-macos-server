@@ -113,13 +113,13 @@ A list of free and paid apps to turn your Mac into a server
 
 ### PocketServer :
 
-**Store :**  Mac App Store/iOS/Mac 
+**Store :**  Mac App Store/ iOS / iPad
 
-**Description :** QuickFTP Server allows sharing files saved on your Mac with other devices.
+**Description :** Cross-platform file sharing 
 
 **Type :** Free
 
-**Link :** https://apps.apple.com/fr/app/quickftp-server/id1451646819?mt=12
+**Link :** https://apps.apple.com/fr/app/pocketserver-partage-fichiers/id6743850070
 
 ## FTP
 
